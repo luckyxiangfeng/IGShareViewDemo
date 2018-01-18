@@ -4,8 +4,8 @@
 第一个版本是九宫格布局的版本。<br>
 将IGCusShareView文件添加到你的工程即可使用。<br>
 使用方式：<br>
-IGCusShareView *view = [[IGCusShareView alloc] initWithFrame:self.view.bounds];
-[view showFromControlle:self];
+IGCusShareView *view = [[IGCusShareView alloc] initWithFrame:self.view.bounds];<br>
+[view showFromControlle:self];<br>
 <br>
 效果动画<br>
 ![](https://github.com/luckyxiangfeng/IGShareViewDemo/blob/master/IGShareViewDemo/shareView.gif)
