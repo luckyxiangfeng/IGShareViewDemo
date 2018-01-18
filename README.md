@@ -6,3 +6,6 @@
 使用方式：<br>
 IGCusShareView *view = [[IGCusShareView alloc] initWithFrame:self.view.bounds];
 [view showFromControlle:self];
+<br>
+效果动画
+![](https://github.com/luckyxiangfeng/IGShareViewDemo/blob/master/IGShareViewDemo/shareView.gif)
