@@ -7,5 +7,5 @@
 IGCusShareView *view = [[IGCusShareView alloc] initWithFrame:self.view.bounds];
 [view showFromControlle:self];
 <br>
-效果动画
+效果动画<br>
 ![](https://github.com/luckyxiangfeng/IGShareViewDemo/blob/master/IGShareViewDemo/shareView.gif)
